@@ -1,6 +1,6 @@
 # MySQL Employee Tracker
 
-< Under Construction >
+With so much data in todays world, I would only make sense for those who deal with large amounts of data on a daily basis to have a useful application that helps them sort through said data. Using this application allows users to get quick and easy access to all of their database properties and execute the required tasks needed. This specific application is designed so developers can see data relating to each employee of their company. Using JavaScript, Node.JS, Express.JS, and MySQL we can quickly and easily operate through large amounts of data in an organized fashion.
 
 ## User Story
 
