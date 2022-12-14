@@ -2,6 +2,8 @@
 
 With so much data in todays world, I would only make sense for those who deal with large amounts of data on a daily basis to have a useful application that helps them sort through said data. Using this application allows users to get quick and easy access to all of their database properties and execute the required tasks needed. This specific application is designed so developers can see data relating to each employee of their company. Using JavaScript, Node.JS, Express.JS, and MySQL we can quickly and easily operate through large amounts of data in an organized fashion.
 
+![](./images/db_table.png)
+
 ## User Story
 
 AS A business owner
@@ -47,11 +49,6 @@ WHEN I choose to update an employee role
 
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
-## Design
-
-This application follows the database shcema containing three variables:
-
-![](image/schema.PNG)
 
 ## About
 
@@ -83,9 +80,6 @@ Application tree structure: The application is user friendly and built to handle
 ## Run 
 * node index.js
 
-## Dependencies
-![](image/dep.PNG)
-
 ## Built with
 * JavaScript
 * Node.js
@@ -94,7 +88,7 @@ Application tree structure: The application is user friendly and built to handle
 
 
 ## Demo
-![](image/screen.PNG)
+![](./images/demo.png)
 
 Check out the video demo here!----> <a href="https://youtu.be/NCJeILWey24"> Employee Tracker App in Action!</a>.
 
