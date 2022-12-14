@@ -96,7 +96,7 @@ Application tree structure: The application is user friendly and built to handle
 ## Demo
 ![](image/screen.PNG)
 
-Do you want to learn more about this program? Please <a href="https://drive.google.com/file/d/1YR7YOwPlGoaFdIdoFeKc9-ysnnY5sM2P/view"> click here for a video demo </a>.
+Check out the video demo here!----> <a href="https://youtu.be/NCJeILWey24"> Employee Tracker App in Action!</a>.
 
 ## Developed By:
 * Dominic Paulazzo
