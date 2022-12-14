@@ -1,6 +1,6 @@
 # MySQL Employee Tracker
 
-With so much data in todays world, I would only make sense for those who deal with large amounts of data on a daily basis to have a useful application that helps them sort through said data. Using this application allows users to get quick and easy access to all of their database properties and execute the required tasks needed. This specific application is designed so developers can see data relating to each employee of their company. Using JavaScript, Node.JS, Express.JS, and MySQL we can quickly and easily operate through large amounts of data in an organized fashion.
+With so much data in todays world, it would only make sense for those who deal with large amounts of data on a daily basis to have a useful application that helps them sort through said data. Using this application allows users to get quick and easy access to all of their database properties and execute the required tasks needed. This specific application is designed so developers can see data relating to each employee of their company. Using JavaScript, Node.JS, Express.JS, and MySQL we can quickly and easily operate through large amounts of data in an organized fashion.
 
 ![](./images/db_table.png)
 
@@ -52,7 +52,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## About
 
-Application tree structure: The application is user friendly and built to handle large amount of data (ie: what if the company have about 10,000 employees and 1,000+ roles)
+This application is built with user experience and user interface at the for front of the design process. Making it easy for a user to sift through limitless lines of data. This is an example of how it works with just a small team in a company. 
 
 * View All Employees - command that prints all employees in a table. Table contains employee id, employee name, title, department, salary and employee manager.
 
